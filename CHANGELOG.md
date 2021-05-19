@@ -1,5 +1,7 @@
 # v0.2.6 (Wed May 19 2021)
 
+- Updated package name
+
 #### ⚠️ Pushed to `main`
 
 - initial commit ([@mauricewegner](https://github.com/mauricewegner))
