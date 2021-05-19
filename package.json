@@ -16,8 +16,8 @@
     "lint": "vue-cli-service lint",
     "sb": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "commit": "git-cz",
-    "semantic-release": "semantic-release"
+    "commit": "git add . && git-cz && git push",
+    "semantic-release": "semantic-release --branches main"
   },
   "dependencies": {
     "core-js": "^3.6.5",
