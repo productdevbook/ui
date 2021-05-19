@@ -1,24 +1,39 @@
-# ui
+# @oktus/ui
 
-## Project setup
-```
-yarn install
-```
+The oktus UI library.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+```sh
+$ npm install @oktus/ui
 
-### Compiles and minifies for production
-```
-yarn build
+# or using yarn
+$ yarn add @oktus/ui
 ```
 
-### Lints and fixes files
-```
-yarn lint
+[![npm version](https://img.shields.io/npm/v/@oktus/ui.svg?style=flat-square)](https://www.npmjs.com/package/@oktus/ui)
+
+## Usage
+
+```html
+<template>
+  <button props />
+</template>
+
+<script>
+  import { Button } from '@oktus/ui'
+
+  export default {
+    name: 'App',
+    components: {
+      Button
+    }
+  }
+</script>
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Documentation
+
+Storybook URL will be added soon.
+
+## License
+
+MIT-licensed.

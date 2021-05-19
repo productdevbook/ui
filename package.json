@@ -11,11 +11,12 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "yarn clean && tsc && yarn copy",
-    "copy": "copyfiles -e \"src/**/*.{ts,js}\" -u 1 src/**/*.* ./dist",
+    "copy": "copyfiles -e \"src/**/*.{ts,js}\" -u 1 \"src/*/**\" ./dist",
     "clean": "rimraf ./dist",
     "lint": "vue-cli-service lint",
     "sb": "start-storybook -p 6006",
-    "build-sb": "build-storybook"
+    "build-sb": "build-storybook",
+    "release": "auto shipit"
   },
   "dependencies": {
     "core-js": "^3.6.5",
