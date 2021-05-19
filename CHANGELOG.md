@@ -24,6 +24,18 @@
 
 # v0.2.7 (Wed May 19 2021)
 
+#### ⚠️ Pushed to `main`
+
+- restructured library, updated README (mauricewegner@icloud.com)
+
+#### Authors: 1
+
+- mauricewegner (mauricewegner@icloud.com)
+
+---
+
+# v0.2.7 (Wed May 19 2021)
+
 
 
 ---
