@@ -1,8 +1,3 @@
 module.exports = {
-  presets: [
-    "@vue/cli-plugin-babel/preset",
-    {
-      "absoluteRuntime": false
-    }
-  ],
+  presets: ["@vue/cli-plugin-babel/preset"],
 };
