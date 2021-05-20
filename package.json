@@ -3,6 +3,13 @@
   "version": "0.0.0-development",
   "description": "oktus – UI library",
   "author": "mauricewegner <mauricewegner@icloud.com>",
+  "keywords": [
+    "oktus",
+    "ui",
+    "library",
+    "components"
+  ],
+  "homepage": "https://oktus.io",
   "repository": "git@github.com:digital-hotel-net/ui.git",
   "license": "MIT",
   "private": false,
