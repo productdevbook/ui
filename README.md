@@ -2,14 +2,15 @@
 
 The oktus UI library.
 
+[![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@master/badge/badge-storybook.svg)](https://ui.oktus.io)
+[![npm version](https://img.shields.io/npm/v/@oktus/ui.svg?style=flat-square)](https://www.npmjs.com/package/@oktus/ui)
+
 ```sh
 $ npm install @oktus/ui
 
 # or using yarn
 $ yarn add @oktus/ui
 ```
-
-[![npm version](https://img.shields.io/npm/v/@oktus/ui.svg?style=flat-square)](https://www.npmjs.com/package/@oktus/ui)
 
 ## Usage
 
@@ -32,7 +33,7 @@ $ yarn add @oktus/ui
 
 ## Documentation
 
-Storybook URL will be added soon.
+[![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@master/badge/badge-storybook.svg)](https://ui.oktus.io)
 
 ## License
 

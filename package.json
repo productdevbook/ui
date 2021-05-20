@@ -14,8 +14,8 @@
     "copy": "copyfiles -e \"src/**/*.{ts,js}\" -u 1 \"src/*/**\" ./dist",
     "clean": "rimraf ./dist",
     "lint": "vue-cli-service lint",
-    "sb": "start-storybook -p 6006",
-    "build-storybook": "build-storybook",
+    "sb": "start-storybook -p 6006 -s public",
+    "build-storybook": "build-storybook -s public",
     "commit": "git add . && git-cz && git push",
     "semantic-release": "semantic-release --branches main"
   },
