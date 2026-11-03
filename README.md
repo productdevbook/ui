@@ -23,55 +23,55 @@ Three layers. One behavior.
 | `dom` | Focus, keyboard, pointer, positioning, ARIA. No framework. |
 | adapters | Components, props and events in your framework: React, Vue, Svelte, Angular. |
 
-Every adapter runs the same upstream behavior tests, and a parity harness drives the same scenarios with real input in Chromium, Firefox and WebKit and compares the DOM, the events and the focus of all four frameworks. On the [Compare](https://ui.productdevbook.com/compare) page, open one dialog and the other three follow.
+Every adapter runs the same upstream behavior tests, and a parity harness drives the same scenarios with real input in Chromium, Firefox and WebKit and compares the DOM, the events and the focus of all four frameworks. On the [Compare](https://ui.productdevbook.com/compare) page, pick any component and try it in all four frameworks side by side; [open one dialog](https://ui.productdevbook.com/compare?component=dialog) and the other three follow.
 
 ## Roadmap
 
-On the website now:
+On the website now, 35 components in all four frameworks:
 
-- [x] Switch
-- [x] Field
-- [x] Form
-- [x] Dialog
+- [x] Accordion
 - [x] Alert Dialog
-- [x] Menu
-- [x] Filterable Menu
-- [x] Context Menu
-- [x] Menubar
-- [x] Popover
-- [x] Tooltip
-- [x] Separator
-- [x] Button
-- [x] Input
-- [x] Toggle
 - [x] Avatar
-- [x] Progress
-- [x] Meter
+- [x] Button
+- [x] Checkbox
+- [x] Checkbox Group
 - [x] Collapsible
+- [x] Context Menu
+- [x] Dialog
+- [x] Drawer
+- [x] Field
+- [x] Filterable Menu
+- [x] Form
+- [x] Input
+- [x] Menu
+- [x] Menubar
+- [x] Meter
+- [x] Navigation Menu
+- [x] Number Field
+- [x] OTP Field
+- [x] Popover
+- [x] Preview Card
+- [x] Progress
+- [x] Radio
+- [x] Radio Group
+- [x] Scroll Area
+- [x] Separator
+- [x] Slider
+- [x] Switch
+- [x] Tabs
+- [x] Toast
+- [x] Toggle
+- [x] Toggle Group
+- [x] Toolbar
+- [x] Tooltip
+- [x] Server rendering and hydration in React, Vue, Svelte and Angular
 
 Coming:
 
-- [ ] Accordion
 - [ ] Autocomplete
-- [ ] Checkbox
-- [ ] Checkbox Group
 - [ ] Combobox
-- [ ] Drawer
 - [ ] Fieldset
-- [ ] Navigation Menu
-- [ ] Number Field
-- [ ] OTP Field
-- [ ] Preview Card
-- [ ] Radio
-- [ ] Radio Group
-- [ ] Scroll Area
 - [ ] Select
-- [ ] Slider
-- [ ] Tabs
-- [ ] Toast
-- [ ] Toggle Group
-- [ ] Toolbar
-- [ ] Server rendering and hydration in every framework
 - [ ] A name
 
 ## It does not have a name yet
