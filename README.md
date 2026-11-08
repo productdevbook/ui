@@ -27,7 +27,7 @@ Every adapter runs the same upstream behavior tests, and a parity harness drives
 
 ## Roadmap
 
-On the website now, 55 components in all five frameworks:
+On the website now, 56 components in all five frameworks:
 
 - [x] Accordion
 - [x] Alert Dialog
@@ -35,6 +35,7 @@ On the website now, 55 components in all five frameworks:
 - [x] Avatar
 - [x] Button
 - [x] Calendar
+- [x] Carousel
 - [x] Checkbox
 - [x] Checkbox Group
 - [x] Collapsible
