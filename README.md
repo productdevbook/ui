@@ -27,41 +27,52 @@ Every adapter runs the same upstream behavior tests, and a parity harness drives
 
 ## Roadmap
 
-On the website now, 38 components in all five frameworks:
+On the website now, 49 components in all five frameworks:
 
 - [x] Accordion
 - [x] Alert Dialog
 - [x] Autocomplete
 - [x] Avatar
 - [x] Button
+- [x] Calendar
 - [x] Checkbox
 - [x] Checkbox Group
 - [x] Collapsible
 - [x] Combobox
 - [x] Context Menu
+- [x] Date Field
+- [x] Date Picker
+- [x] Date Range Picker
+- [x] Date Time Field
 - [x] Dialog
 - [x] Drawer
 - [x] Field
 - [x] Filterable Menu
 - [x] Form
 - [x] Input
+- [x] Listbox
 - [x] Menu
 - [x] Menubar
 - [x] Meter
 - [x] Navigation Menu
 - [x] Number Field
 - [x] OTP Field
+- [x] Pagination
 - [x] Popover
 - [x] Preview Card
 - [x] Progress
 - [x] Radio
 - [x] Radio Group
+- [x] Range Calendar
+- [x] Rating
+- [x] Rating Display
 - [x] Scroll Area
 - [x] Select
 - [x] Separator
 - [x] Slider
 - [x] Switch
 - [x] Tabs
+- [x] Time Field
 - [x] Toast
 - [x] Toggle
 - [x] Toggle Group
@@ -72,7 +83,11 @@ On the website now, 38 components in all five frameworks:
 Coming:
 
 - [ ] Fieldset
+- [ ] File Upload
+- [ ] Color Picker
 - [ ] A name
+
+The full list of components still to come is in [#4](https://github.com/productdevbook/ui/issues/4).
 
 ## It does not have a name yet
 
