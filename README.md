@@ -27,7 +27,7 @@ Every adapter runs the same upstream behavior tests, and a parity harness drives
 
 ## Roadmap
 
-On the website now, 50 components in all five frameworks:
+On the website now, 53 components in all five frameworks:
 
 - [x] Accordion
 - [x] Alert Dialog
@@ -38,6 +38,9 @@ On the website now, 50 components in all five frameworks:
 - [x] Checkbox
 - [x] Checkbox Group
 - [x] Collapsible
+- [x] Color Picker
+- [x] Color Swatch
+- [x] Color Swatch Picker
 - [x] Combobox
 - [x] Context Menu
 - [x] Date Field
@@ -84,7 +87,6 @@ On the website now, 50 components in all five frameworks:
 Coming:
 
 - [ ] Fieldset
-- [ ] Color Picker
 - [ ] A name
 
 The full list of components still to come is in [#4](https://github.com/productdevbook/ui/issues/4).
