@@ -27,7 +27,7 @@ Every adapter runs the same upstream behavior tests, and a parity harness drives
 
 ## Roadmap
 
-On the website now, 53 components in all five frameworks:
+On the website now, 55 components in all five frameworks:
 
 - [x] Accordion
 - [x] Alert Dialog
@@ -82,6 +82,8 @@ On the website now, 53 components in all five frameworks:
 - [x] Toggle Group
 - [x] Toolbar
 - [x] Tooltip
+- [x] Tree
+- [x] Tree Select
 - [x] Server rendering and hydration in React, Vue, Svelte, Angular and Solid
 
 Coming:
