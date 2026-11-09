@@ -2,7 +2,12 @@
 
 Headless components for React, Vue, Svelte, Angular and Solid. Write it once, run it five ways.
 
-[![One component set. Five frameworks.](https://ui.productdevbook.com/og.png)](https://ui.productdevbook.com)
+<a href="https://ui.productdevbook.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ui.productdevbook.com/brand/readme-dark.png">
+    <img alt="One component set. Five frameworks. Headless components for React, Vue, Svelte, Angular and Solid." src="https://ui.productdevbook.com/brand/readme-light.png">
+  </picture>
+</a>
 
 **[Website](https://ui.productdevbook.com)** · **[Docs](https://ui.productdevbook.com/docs)** · **[Compare](https://ui.productdevbook.com/compare)** · **[Help name it](https://ui.productdevbook.com/names)** · **[Early access](https://ui.productdevbook.com/apply)**
 
