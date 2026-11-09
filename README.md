@@ -10,7 +10,8 @@
   <a href="https://ui.productdevbook.com/docs"><b>Docs</b></a> &nbsp;·&nbsp;
   <a href="https://ui.productdevbook.com/compare"><b>Compare</b></a> &nbsp;·&nbsp;
   <a href="https://ui.productdevbook.com/names"><b>Name it</b></a> &nbsp;·&nbsp;
-  <a href="https://ui.productdevbook.com/apply"><b>Early access</b></a>
+  <a href="https://ui.productdevbook.com/apply"><b>Early access</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/sponsors/productdevbook"><b>Sponsor</b></a>
 </p>
 
 <p align="center">
@@ -69,6 +70,14 @@ The package scope is `@▢▢▢▢` for now. [Suggest one and vote](https://ui.
 ### `06` &nbsp; Early access
 
 No account, no sign-in. [Leave your email](https://ui.productdevbook.com/apply), the frameworks you use and, if you like, your GitHub username.
+
+&nbsp;
+
+### `07` &nbsp; Sponsor the launch
+
+Five frameworks, one core, every behavior tested five times: that is a lot of full-time work before 1.0. If your team plans to use it, sponsoring now helps it ship sooner and keeps it independent.
+
+**[Sponsor on GitHub →](https://github.com/sponsors/productdevbook)**
 
 &nbsp;
 
