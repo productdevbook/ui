@@ -1,16 +1,15 @@
-<a href="https://ui.productdevbook.com">
+<a href="https://hamur.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ui.productdevbook.com/brand/readme-dark.png">
-    <img alt="One component set. Five frameworks. Headless components for React, Vue, Svelte, Angular and Solid." src="https://ui.productdevbook.com/brand/readme-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://hamur.dev/brand/readme-dark.png">
+    <img alt="One component set. Five frameworks. Headless components for React, Vue, Svelte, Angular and Solid." src="https://hamur.dev/brand/readme-light.png">
   </picture>
 </a>
 
 <p align="center">
-  <a href="https://ui.productdevbook.com"><b>Website</b></a> &nbsp;·&nbsp;
-  <a href="https://ui.productdevbook.com/docs"><b>Docs</b></a> &nbsp;·&nbsp;
-  <a href="https://ui.productdevbook.com/compare"><b>Compare</b></a> &nbsp;·&nbsp;
-  <a href="https://ui.productdevbook.com/names"><b>Name it</b></a> &nbsp;·&nbsp;
-  <a href="https://ui.productdevbook.com/apply"><b>Early access</b></a> &nbsp;·&nbsp;
+  <a href="https://hamur.dev"><b>Website</b></a> &nbsp;·&nbsp;
+  <a href="https://hamur.dev/docs"><b>Docs</b></a> &nbsp;·&nbsp;
+  <a href="https://hamur.dev/compare"><b>Compare</b></a> &nbsp;·&nbsp;
+  <a href="https://hamur.dev/apply"><b>Early access</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/sponsors/productdevbook"><b>Sponsor</b></a>
 </p>
 
@@ -32,8 +31,8 @@ No styles. Your rules.
 ### `02` &nbsp; Three layers, one behavior
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ui.productdevbook.com/brand/layers-dark.png">
-  <img alt="The adapters for React, Vue, Svelte, Angular and Solid sit on dom (focus, keyboard, pointer, positioning, ARIA), which sits on core (state and logic, no framework, no DOM)." src="https://ui.productdevbook.com/brand/layers-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://hamur.dev/brand/layers-dark.png">
+  <img alt="The adapters for React, Vue, Svelte, Angular and Solid sit on dom (focus, keyboard, pointer, positioning, ARIA), which sits on core (state and logic, no framework, no DOM)." src="https://hamur.dev/brand/layers-light.png">
 </picture>
 
 &nbsp;
@@ -42,7 +41,7 @@ No styles. Your rules.
 
 Every adapter runs the same upstream behavior tests. A parity harness drives the same scenarios with real input in Chromium, Firefox and WebKit, and compares the DOM, the events and the focus of all five frameworks.
 
-See it yourself on [Compare](https://ui.productdevbook.com/compare): pick a component and try it in all five side by side. [Open one dialog](https://ui.productdevbook.com/compare?component=dialog) and the other four follow.
+See it yourself on [Compare](https://hamur.dev/compare): pick a component and try it in all five side by side. [Open one dialog](https://hamur.dev/compare?component=dialog) and the other four follow.
 
 &nbsp;
 
@@ -50,10 +49,10 @@ See it yourself on [Compare](https://ui.productdevbook.com/compare): pick a comp
 
 Every component in all five frameworks, with server rendering and hydration.
 
-<a href="https://ui.productdevbook.com/docs">
+<a href="https://hamur.dev/docs">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ui.productdevbook.com/brand/catalog-dark.png">
-    <img alt="Every component, A to Z, each drawn as a small technical sketch." src="https://ui.productdevbook.com/brand/catalog-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://hamur.dev/brand/catalog-dark.png">
+    <img alt="Every component, A to Z, each drawn as a small technical sketch." src="https://hamur.dev/brand/catalog-light.png">
   </picture>
 </a>
 
@@ -61,19 +60,13 @@ Coming next: Fieldset, and the rest of [#4](https://github.com/productdevbook/ui
 
 &nbsp;
 
-### `05` &nbsp; No name yet
+### `05` &nbsp; Early access
 
-The package scope is `@▢▢▢▢` for now. [Suggest one and vote](https://ui.productdevbook.com/names); the shortlist is decided in public.
-
-&nbsp;
-
-### `06` &nbsp; Early access
-
-No account, no sign-in. [Leave your email](https://ui.productdevbook.com/apply), the frameworks you use and, if you like, your GitHub username.
+No account, no sign-in. [Leave your email](https://hamur.dev/apply), the frameworks you use and, if you like, your GitHub username.
 
 &nbsp;
 
-### `07` &nbsp; Sponsor the launch
+### `06` &nbsp; Sponsor the launch
 
 Five frameworks, one core, every behavior tested five times: that is a lot of full-time work before 1.0. If your team plans to use it, sponsoring now helps it ship sooner and keeps it independent.
 
